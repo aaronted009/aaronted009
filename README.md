@@ -1,5 +1,5 @@
 # 💫 About Me:
-:bust_in_silhouette: Web developer, aspiring backend software engineer<br>:seedling: I’m currently properly learning algorithms and data structures.<br>:telescope: I'm open to freelancing projects.<br>:zap: Fun fact: Personal development oriented, I like everything that can help become a better human being in society.
+:bust_in_silhouette: Backend software engineer<br>:seedling: I’m currently properly learning algorithms and data structures.<br>:telescope: I'm open to freelancing projects.<br>:zap: Fun fact: Personal development oriented, I like everything that can help become a better human being in society.
 
 
 ## 🌐 Socials:
